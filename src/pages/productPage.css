@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.open-modal {
+  position: fixed;
+  right: 2%;
+  top: 1%;
+  padding: 10px 20px;
+  background: red;
+  border: solid 2px aqua;
+  border-radius: 50%;
+  font-size: 30px;
+  color: aqua;
+}

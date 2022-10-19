@@ -1,0 +1,19 @@
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: bisque;
+}
+span {
+  padding: 0 20px;
+}
+.li {
+  text-decoration: none;
+  background-color: red;
+  padding: 5px 20px;
+  border-radius: 20px;
+  border: solid 2px aqua;
+  font-size: 16px;
+  font-weight: 700;
+  color: aqua;
+}
